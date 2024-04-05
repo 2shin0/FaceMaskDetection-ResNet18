@@ -1,1 +1,1 @@
-# -FaceMaskDetection-ResNet18
+# FaceMaskDetection-ResNet18
