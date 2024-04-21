@@ -1,6 +1,6 @@
 ## ResNet18을 활용한 마스크 착용 여부 분류 모델 구축
 
-### 📁데이터셋
+### 📁Dataset
 Kaggle의 Face Mask Detection ~12K Images Dataset을 활용하였습니다.
 https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset/data
 
